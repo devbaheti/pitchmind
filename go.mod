@@ -1,4 +1,4 @@
-module football-guesser
+module pitchmind
 
 go 1.22.8
 
